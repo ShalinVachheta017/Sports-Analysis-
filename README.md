@@ -1,8 +1,6 @@
-Here's a detailed **README** file for your **Sports Analysis** repository, specifically for your **IPL Analysis** project. Let me know if you'd like any modifications or additions.
-
 ---
 
-### 📌 **README for IPL Analysis**
+### 📌 **IPL Analysis**
 
 # 🏏 IPL Analysis
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
