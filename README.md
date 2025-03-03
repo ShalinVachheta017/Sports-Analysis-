@@ -38,17 +38,11 @@ git clone https://github.com/ShalinVachheta017/Sports-Analysis.git
 cd Sports-Analysis
 ```
 
-2️⃣ **Create a virtual environment (optional but recommended)**
-```sh
-python -m venv venv
-source venv/bin/activate   # For Mac/Linux
-venv\Scripts\activate      # For Windows
-```
-
-3️⃣ **Run the Jupyter Notebook**
+2️⃣ **Run the Jupyter Notebook**
 ```sh
 jupyter notebook
 ```
+
 
 ## 📊 **Data Sources**
 - **Deliveries Dataset (`deliveries.csv`)** – Ball-by-ball data including batsman, bowler, runs, extras, etc.
