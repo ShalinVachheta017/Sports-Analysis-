@@ -59,12 +59,6 @@ jupyter notebook
 
 ---
 
-## 📷 **Sample Visualizations**
-| **Win Distribution** | **Top Batsmen Performance** |
-|---------------------|----------------------|
-| ![Win Rate](https://upload.wikimedia.org/wikipedia/commons/3/3a/Winning.png) | ![Batsmen Stats](https://upload.wikimedia.org/wikipedia/commons/3/3b/Batsmen_Performance.png) |
-
----
 
 ## 🚀 **Future Improvements**
 🔹 Implement Machine Learning models for match predictions.  
