@@ -2,6 +2,28 @@
 ### 📌 **IPL Analysis**
 
 # 🏏 IPL Analysis
+
+## Project Summary
+
+### What is this project?
+This project explores Indian Premier League cricket matches and player statistics.
+
+### Why is it interesting?
+It makes it easier to compare cricket performances across games.
+
+### How does it work?
+It reads match and ball-by-ball data, calculates statistics, and creates charts.
+
+### Real-life example
+You want to compare two IPL teams over several seasons without reading every scorecard.
+
+### What did I learn?
+I practiced data analysis, statistics, and visualizing sports performance.
+
+---
+
+## Technical Documentation
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)](https://pandas.pydata.org/)
