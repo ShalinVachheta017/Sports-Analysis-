@@ -5,20 +5,9 @@
 
 ## Project Summary
 
-### What is this project?
-This project explores Indian Premier League cricket matches and player statistics.
+Imagine wanting to compare Indian Premier League cricket teams without reading hundreds of scorecards. This project studies match results and ball-by-ball data to find patterns in team and player performance. The challenge is turning many small match events into clear statistics.
 
-### Why is it interesting?
-It makes it easier to compare cricket performances across games.
-
-### How does it work?
-It reads match and ball-by-ball data, calculates statistics, and creates charts.
-
-### Real-life example
-You want to compare two IPL teams over several seasons without reading every scorecard.
-
-### What did I learn?
-I practiced data analysis, statistics, and visualizing sports performance.
+I used match data to calculate and visualize results such as runs, wickets, and winning patterns. For example, you can compare how two teams performed across seasons. I learned how to work with sports datasets, calculate useful measures, and present results in charts that are easy to understand.
 
 ---
 
